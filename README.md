@@ -1,5 +1,5 @@
 # CommLabMiniProjects
-Short Assignments for NYUAD IM course Communications Lab.
+Short Assignments for NYUAD IM course Communications Lab in Spring 2022.
 
 Scroll Animation - A website to demonstrate the Animate On Scroll JS library.
 
